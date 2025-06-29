@@ -1,0 +1,1 @@
+Create a simple Linux character device driver with read/write support and a 1KB buffer.
